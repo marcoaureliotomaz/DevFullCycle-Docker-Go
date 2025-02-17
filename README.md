@@ -40,7 +40,7 @@ Full Cycle Rocks!!
 ```
 
 ## 🔗 Referências
-
+- Link da Imagem na minha conta do Docker Hub [https://hub.docker.com/layers/tomazaureliomarco/fullcycle/latest/images/sha256:1f12ec28d83745a33ce3fe4b7ad008a2ef8183d6786e6bb74d26cba75b70af7f?uuid=20510B99-87A9-4E2F-88E0-F0CCE27649AE] (https://hub.docker.com/layers/tomazaureliomarco/fullcycle/)
 - Site oficial do Go Lang: [https://go.dev/](https://go.dev/)
 - Docker Hub: [https://hub.docker.com/](https://hub.docker.com/)
 
