@@ -30,7 +30,7 @@ Além disso, a imagem final deve ter menos de **2MB**.
 Após publicar sua imagem no Docker Hub, execute o seguinte comando:
 
 ```sh
-docker run <seu-usuario>/fullcycle
+docker run tomazaureliomarco/fullcycle
 ```
 
 E o resultado esperado deve ser:
